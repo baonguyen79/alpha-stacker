@@ -1,6 +1,6 @@
-var str = "abcdefghijklmnopqrstuvwxyz";
+var AlphabetArray = "abcdefghijklmnopqrstuvwxyz";
 
-var AlphabetArray = str.split("");
+// var AlphabetArray = str.split("");
 
 
 // Invoke the function and pass in the array
